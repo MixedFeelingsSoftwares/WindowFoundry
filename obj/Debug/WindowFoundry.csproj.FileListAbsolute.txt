@@ -1,0 +1,6 @@
+D:\source\repos\WindowFoundry\WindowFoundry\bin\Debug\WindowFoundry.dll
+D:\source\repos\WindowFoundry\WindowFoundry\bin\Debug\WindowFoundry.pdb
+D:\source\repos\WindowFoundry\WindowFoundry\obj\Debug\WindowFoundry.csprojAssemblyReference.cache
+D:\source\repos\WindowFoundry\WindowFoundry\obj\Debug\WindowFoundry.csproj.CoreCompileInputs.cache
+D:\source\repos\WindowFoundry\WindowFoundry\obj\Debug\WindowFoundry.dll
+D:\source\repos\WindowFoundry\WindowFoundry\obj\Debug\WindowFoundry.pdb
