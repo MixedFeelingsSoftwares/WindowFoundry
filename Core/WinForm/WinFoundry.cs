@@ -51,6 +51,10 @@ namespace WindowFoundry.Core.WinForm
                 MoveWin(Offset);
             };
 
+            attachedWindow.ResizeEnd += (s, g) =>
+            {
+                MoveWin(Offset);
+            };
         }
 
         public void ChangePosition(Position pos)

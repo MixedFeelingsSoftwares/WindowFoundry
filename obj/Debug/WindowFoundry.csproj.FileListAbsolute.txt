@@ -4,3 +4,9 @@ D:\source\repos\WindowFoundry\WindowFoundry\obj\Debug\WindowFoundry.csprojAssemb
 D:\source\repos\WindowFoundry\WindowFoundry\obj\Debug\WindowFoundry.csproj.CoreCompileInputs.cache
 D:\source\repos\WindowFoundry\WindowFoundry\obj\Debug\WindowFoundry.dll
 D:\source\repos\WindowFoundry\WindowFoundry\obj\Debug\WindowFoundry.pdb
+C:\Users\IsKaffe\source\repos\FuckingKeys\WindowFoundry\bin\Debug\WindowFoundry.dll
+C:\Users\IsKaffe\source\repos\FuckingKeys\WindowFoundry\bin\Debug\WindowFoundry.pdb
+C:\Users\IsKaffe\source\repos\FuckingKeys\WindowFoundry\obj\Debug\WindowFoundry.csprojAssemblyReference.cache
+C:\Users\IsKaffe\source\repos\FuckingKeys\WindowFoundry\obj\Debug\WindowFoundry.csproj.CoreCompileInputs.cache
+C:\Users\IsKaffe\source\repos\FuckingKeys\WindowFoundry\obj\Debug\WindowFoundry.dll
+C:\Users\IsKaffe\source\repos\FuckingKeys\WindowFoundry\obj\Debug\WindowFoundry.pdb
